@@ -1,6 +1,6 @@
 const TelegramApi = require('node-telegram-bot-api')
 var cag = require('./question.json')
-const token = '1994166077:AAEjOZp5R8qOcWQQbNblMuXGMBHJhC2HoGQ'
+const token = ''
 const start = '/start';
 const info = '/info';
 const question = '/question';
